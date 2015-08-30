@@ -334,7 +334,7 @@ ul.why-me li{
 	font-size: 30px;
 }
 
-#tf-contact a {
+#tf-contact a, #tf-about a {
 	color: #009bff;
 	font-size: 17px;
 	font-weight: 100;
@@ -342,7 +342,7 @@ ul.why-me li{
 
 
 
-#tf-contact a:hover {
+#tf-contact a:hover, #tf-about a:hover {
 	color: #005d99;
 }
 
