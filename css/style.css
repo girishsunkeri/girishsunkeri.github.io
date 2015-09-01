@@ -395,8 +395,18 @@ nav#tf-footer {
 
 #myCarousel p {
 	color: #000;
+	font-size: 17px;
+	font-weight: 100;
 }
 
 .carousel-inner {
+	background-color: #E0C27E;
+}
+
+.carousel-indicators li {
+	background-color: #EC0D0D;
+}
+
+.carousel-indicators .active {
 	background-color: #000;
 }
