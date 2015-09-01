@@ -392,3 +392,11 @@ nav#tf-footer {
         box-shadow: #000000 0px 0px 5px;
     }
 }
+
+#myCarousel p {
+	color: #000;
+}
+
+.carousel-inner {
+	background-color: #000;
+}
