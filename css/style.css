@@ -410,3 +410,11 @@ nav#tf-footer {
 .carousel-indicators .active {
 	background-color: #000;
 }
+
+.app-title {
+	text-decoration: underline;
+}
+
+.slide-caption{
+	font-size: 30px;
+}
